@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Merienda:400,700);
+body,html {
+  padding-top: 50px;
+  font-family: 'Merienda', sans-serif;
+}
+h1{
+	text-align: center;
+}
+hr{
+	height: 50px;
+}
+.cabecera {
+  padding: 40px 15px;
+
+}
+nav#tf-footer {
+	text-align: center;
+	background: #ECEFF1;
+	padding: 1% 0 1% 0;
+	color: #000;
+}
